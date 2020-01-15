@@ -1,0 +1,15 @@
+{
+  "name": "advent-of-code-2015",
+  "version": "1.0.0",
+  "description": "Solutions for Advent of Code 2018",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "test-watch": "jest --watchAll"
+  },
+  "author": "Adam Risberg",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^24.9.0"
+  }
+}
