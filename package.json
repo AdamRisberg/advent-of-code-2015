@@ -1,7 +1,7 @@
 {
   "name": "advent-of-code-2015",
   "version": "1.0.0",
-  "description": "Solutions for Advent of Code 2018",
+  "description": "Solutions for Advent of Code 2015",
   "main": "index.js",
   "scripts": {
     "test": "jest",
