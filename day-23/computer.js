@@ -6,14 +6,6 @@ class Computer {
     this.curIdx = 0;
   }
 
-  getRegisterA() {
-    return this.a;
-  }
-
-  getRegisterB() {
-    return this.b;
-  }
-
   loadProgram(program, registerA = 0, registerB = 0) {
     this.program = [...program];
     this.a = registerA;
