@@ -10,7 +10,7 @@
   "author": "Adam Risberg",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^24.9.0"
+    "jest": "^25.4.0"
   },
   "dependencies": {
     "md5": "^2.2.1"
